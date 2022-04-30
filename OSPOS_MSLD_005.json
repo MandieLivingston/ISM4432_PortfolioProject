@@ -1,0 +1,40 @@
+{
+  "header": [
+	[
+	  "ID",
+	  "Company Name",
+	  "Agency Name",
+	  "Category",
+	  "Last Name",
+	  "First Name",
+	  "Email",
+	  "Phone Number",
+	  "",
+	  ""
+	]
+  ],
+  "data": [
+	{
+	  "ID": 2,
+	  "Company Name": "Test Cost Supplier Company",
+	  "Agency Name": "Test Cost Supplier Agency",
+	  "Category": "Cost Supplier",
+	  "Last Name": "Test Supplier Last Name",
+	  "First Name": "Test Supplier First Name",
+	  "Email": "no@email.com",
+	  "Phone Number": "123.456.7890",
+	  "": "<span class=\"glyphicon glyphicon-edit\"></span>"
+	},
+	{
+	  "ID": 3,
+	  "Company Name": "Test Goods Supplier Company",
+	  "Agency Name": "Test Goods Supplier Agency",
+	  "Category": "Goods Supplier",
+	  "Last Name": "Test Supplier Last Name",
+	  "First Name": "Test Supplier First Name",
+	  "Email": "",
+	  "Phone Number": "",
+	  "": "<span class=\"glyphicon glyphicon-edit\"></span>"
+	}
+  ]
+}

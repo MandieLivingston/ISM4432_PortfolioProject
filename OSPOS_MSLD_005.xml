@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabledata>
+	<fields>
+		<field>ID</field>
+		<field>Company Name</field>
+		<field>Agency Name</field>
+		<field>Category</field>
+		<field>Last Name</field>
+		<field>First Name</field>
+		<field>Email</field>
+		<field>Phone Number</field>
+		<field></field>
+		<field></field>
+	</fields>
+	<data>
+		<row id="1">
+			<column-1>2</column-1>
+			<column-2>Test Cost Supplier Company</column-2>
+			<column-3>Test Cost Supplier Agency</column-3>
+			<column-4>Cost Supplier</column-4>
+			<column-5>Test Supplier Last Name</column-5>
+			<column-6>Test Supplier First Name</column-6>
+			<column-7>no@email.com</column-7>
+			<column-8>123.456.7890</column-8>
+			<column-9>
+				<span class="glyphicon glyphicon-phone"></span>
+			</column-9>
+			<column-10>
+				<span class="glyphicon glyphicon-edit"></span>
+			</column-10>
+		</row>
+		<row id="2">
+			<column-1>3</column-1>
+			<column-2>Test Goods Supplier Company</column-2>
+			<column-3>Test Goods Supplier Agency</column-3>
+			<column-4>Goods Supplier</column-4>
+			<column-5>Test Supplier Last Name</column-5>
+			<column-6>Test Supplier First Name</column-6>
+			<column-7></column-7>
+			<column-8></column-8>
+			<column-9></column-9>
+			<column-10>
+				<span class="glyphicon glyphicon-edit"></span>
+			</column-10>
+		</row>
+	</data>
+</tabledata>
